@@ -6,4 +6,4 @@
 
 
 
-echo "Hello Github!"
+echo "Hello from Github!"
